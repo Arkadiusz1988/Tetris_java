@@ -10,4 +10,4 @@ Used stack/function:
 - Register/login
 
 
-Description: Tetris game made in Java swing,awt libery deployed on tomcat serwer, started from controller(Sping MVC in beta verion used)
+Description: Tetris game made in Java swing,awt libery deployed on tomcat serwer, started from controller(Sping MVC in beta verion used - working version under second branch)
